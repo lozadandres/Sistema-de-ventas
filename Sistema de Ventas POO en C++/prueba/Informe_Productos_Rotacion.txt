@@ -1,0 +1,12 @@
+|| Informe de productos según rotación ||
+|| ID del producto: 1
+|| Nombre del producto: leche
+|| Cantidad total vendida: 1
+|| Estado de rotación: Baja
+-------------------------------------------
+|| Informe de productos según rotación ||
+|| ID del producto: 1
+|| Nombre del producto: leche
+|| Cantidad total vendida: 1
+|| Estado de rotación: Baja
+-------------------------------------------

@@ -1,0 +1,550 @@
+# depslib dependency file v1.0
+1711298885 source:c:\users\lozad\desktop\lab2\prueba\src\cliente.cpp
+	"C:\Users\lozad\Desktop\lab2\prueba\include\Cliente.h"
+	<iostream>
+
+1711299563 c:\users\lozad\desktop\lab2\prueba\include\cliente.h
+	<iostream>
+	<string>
+	"user_profile.h"
+
+1711243941 source:c:\users\lozad\desktop\lab2\prueba\src\factura.cpp
+	"Factura.h"
+
+1711243941 c:\users\lozad\desktop\lab2\prueba\include\factura.h
+
+1711243903 source:c:\users\lozad\desktop\lab2\prueba\src\producto.cpp
+	"Producto.h"
+
+1711243903 c:\users\lozad\desktop\lab2\prueba\include\producto.h
+
+1711299686 source:c:\users\lozad\desktop\lab2\prueba\src\user_profile.cpp
+	"C:\Users\lozad\Desktop\lab2\prueba\include\user_profile.h"
+
+1711298334 c:\users\lozad\desktop\lab2\prueba\include\user_profile.h
+	<string>
+
+1711384761 source:c:\users\lozad\desktop\lab2\prueba\main.cpp
+	<iostream>
+	<vector>
+	"C:\Users\lozad\Desktop\lab2\prueba\include\Cliente.h"
+	<ctime>
+	<cmath>
+
+1711299686 source:c:\users\lozad\desktop\lab2 - copia\prueba\src\user_profile.cpp
+	"C:\Users\lozad\Desktop\lab2\prueba\include\user_profile.h"
+
+1712542405 source:c:\users\lozad\desktop\lab2 - copia\prueba\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Producto.h"
+	"Factura.h"
+	<algorithm>
+	<ctime>
+
+1712367727 c:\users\lozad\desktop\lab2 - copia\prueba\include\cliente.h
+	<string>
+	<vector>
+
+1711904110 c:\users\lozad\desktop\lab2 - copia\prueba\include\producto.h
+	<string>
+	<vector>
+
+1712545094 c:\users\lozad\desktop\lab2 - copia\prueba\include\factura.h
+	<vector>
+	"Producto.h"
+	"Cliente.h"
+
+1712365054 source:c:\users\lozad\desktop\lab2 - copia\prueba\src\cliente.cpp
+	<iostream>
+	"Cliente.h"
+
+1712545253 source:c:\users\lozad\desktop\lab2 - copia\prueba\src\factura.cpp
+	<iostream>
+	"Factura.h"
+	<ctime>
+	<iomanip>
+	"Cliente.h"
+	<algorithm>
+
+1712365061 source:c:\users\lozad\desktop\lab2 - copia\prueba\src\producto.cpp
+	<iostream>
+	"Producto.h"
+	<iomanip>
+
+1711505265 source:c:\users\lozad\desktop\lab2 - copia\prueba\src\persona.cpp
+	"Persona.h"
+
+1711505264 c:\users\lozad\desktop\lab2 - copia\prueba\include\persona.h
+
+1712332672 source:c:\users\lozad\desktop\lab2 - copia\prueba\src\fecha.cpp
+	"Fecha.h"
+
+1712332217 c:\users\lozad\desktop\lab2 - copia\prueba\include\fecha.h
+	<iostream>
+	<string>
+
+1712542405 source:c:\users\lozad\desktop\lab2 - copia - copia\prueba\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Producto.h"
+	"Factura.h"
+	<algorithm>
+	<ctime>
+
+1712367727 c:\users\lozad\desktop\lab2 - copia - copia\prueba\include\cliente.h
+	<string>
+	<vector>
+
+1711904110 c:\users\lozad\desktop\lab2 - copia - copia\prueba\include\producto.h
+	<string>
+	<vector>
+
+1712546718 c:\users\lozad\desktop\lab2 - copia - copia\prueba\include\factura.h
+	<vector>
+	"Producto.h"
+	"Cliente.h"
+
+1712365054 source:c:\users\lozad\desktop\lab2 - copia - copia\prueba\src\cliente.cpp
+	<iostream>
+	"Cliente.h"
+
+1712332672 source:c:\users\lozad\desktop\lab2 - copia - copia\prueba\src\fecha.cpp
+	"Fecha.h"
+
+1712332217 c:\users\lozad\desktop\lab2 - copia - copia\prueba\include\fecha.h
+	<iostream>
+	<string>
+
+1711505265 source:c:\users\lozad\desktop\lab2 - copia - copia\prueba\src\persona.cpp
+	"Persona.h"
+
+1711505264 c:\users\lozad\desktop\lab2 - copia - copia\prueba\include\persona.h
+
+1712365061 source:c:\users\lozad\desktop\lab2 - copia - copia\prueba\src\producto.cpp
+	<iostream>
+	"Producto.h"
+	<iomanip>
+
+1711299686 source:c:\users\lozad\desktop\lab2 - copia - copia\prueba\src\user_profile.cpp
+	"C:\Users\lozad\Desktop\lab2\prueba\include\user_profile.h"
+
+1712546792 source:c:\users\lozad\desktop\lab2 - copia - copia\prueba\src\factura.cpp
+	<iostream>
+	"Factura.h"
+	<ctime>
+	<iomanip>
+	"Cliente.h"
+	<algorithm>
+
+1713033706 source:c:\users\lozad\desktop\lab2 - copia - copia - copia\prueba\src\cliente.cpp
+	<iostream>
+	"Cliente.h"
+
+1713033974 c:\users\lozad\desktop\lab2 - copia - copia - copia\prueba\include\cliente.h
+	"Fecha.h"
+	<string>
+	<vector>
+
+1712850568 source:c:\users\lozad\desktop\lab2 - copia - copia - copia\prueba\src\factura.cpp
+	<iostream>
+	"Factura.h"
+	<ctime>
+	<iomanip>
+	"Cliente.h"
+	<algorithm>
+
+1713027184 c:\users\lozad\desktop\lab2 - copia - copia - copia\prueba\include\factura.h
+	<vector>
+	"Producto.h"
+	"Cliente.h"
+
+1713032976 c:\users\lozad\desktop\lab2 - copia - copia - copia\prueba\include\producto.h
+	"Fecha.h"
+	<string>
+	<vector>
+
+1713034415 source:c:\users\lozad\desktop\lab2 - copia - copia - copia\prueba\src\fecha.cpp
+	"Fecha.h"
+
+1713030179 c:\users\lozad\desktop\lab2 - copia - copia - copia\prueba\include\fecha.h
+	<iostream>
+	<string>
+
+1713024268 source:c:\users\lozad\desktop\lab2 - copia - copia - copia\prueba\src\persona.cpp
+	"Persona.h"
+
+1713027167 c:\users\lozad\desktop\lab2 - copia - copia - copia\prueba\include\persona.h
+	<string>
+
+1713033850 source:c:\users\lozad\desktop\lab2 - copia - copia - copia\prueba\src\producto.cpp
+	<iostream>
+	"Producto.h"
+	<iomanip>
+
+1711299686 source:c:\users\lozad\desktop\lab2 - copia - copia - copia\prueba\src\user_profile.cpp
+	"C:\Users\lozad\Desktop\lab2\prueba\include\user_profile.h"
+
+1712851322 source:c:\users\lozad\desktop\lab2 - copia - copia - copia\prueba\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Producto.h"
+	"Factura.h"
+	<algorithm>
+	<ctime>
+
+1715799821 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Vendedor.h"
+	"Proveedor.h"
+	"Producto.h"
+	"Factura.h"
+	<algorithm>
+	<ctime>
+	<sstream>
+	<fstream>
+
+1715982075 c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\include\cliente.h
+	"Persona.h"
+	<string>
+	<vector>
+
+1714587128 c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\include\fecha.h
+	<iostream>
+	<string>
+
+1715982088 c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\include\producto.h
+	"Fecha.h"
+	<string>
+	<vector>
+
+1715560893 c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\include\factura.h
+	<vector>
+	"Producto.h"
+	"Vendedor.h"
+	"Cliente.h"
+
+1715982426 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\cliente.cpp
+	<iostream>
+	"Cliente.h"
+	<fstream>
+
+1715568406 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\factura.cpp
+	<iostream>
+	"Factura.h"
+	<ctime>
+	<iomanip>
+	"Vendedor.h"
+	"Cliente.h"
+	<algorithm>
+	<fstream>
+
+1714586758 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1713741489 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\persona.cpp
+	"Persona.h"
+
+1715461593 c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\include\persona.h
+	"Fecha.h"
+	<string>
+
+1715982562 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\producto.cpp
+	<iostream>
+	"Producto.h"
+	<iomanip>
+	<fstream>
+	<ctime>
+	<chrono>
+
+1711299686 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\user_profile.cpp
+	"C:\Users\lozad\Desktop\lab2\prueba\include\user_profile.h"
+
+1715982818 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\proveedor.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"Proveedor.h"
+
+1715828136 c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\include\proveedor.h
+	"Persona.h"
+	<string>
+	<vector>
+
+1715982299 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\vendedor.cpp
+	<iostream>
+	"Vendedor.h"
+	<fstream>
+
+1715982096 c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\include\vendedor.h
+	"Persona.h"
+	<string>
+	<vector>
+
+1713114387 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\menuadmin.cpp
+	"Menuadmin.h"
+
+1713114387 c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\include\menuadmin.h
+
+1713114426 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\menuvend.cpp
+	"Menuvend.h"
+
+1713114426 c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\include\menuvend.h
+
+1713732596 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\bono.cpp
+	"Bono.h"
+
+1714579792 c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\include\bono.h
+	<string>
+
+1713732569 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\efectivo.cpp
+	"Efectivo.h"
+
+1714579700 c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\include\efectivo.h
+	<string>
+
+1713732524 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\formadepago.cpp
+	"FormaDePago.h"
+
+1714579835 c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\include\formadepago.h
+
+1713732639 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\tarjeta.cpp
+	"Tarjeta.h"
+
+1714580022 c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\include\tarjeta.h
+	<string>
+
+1713732700 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\transferencia.cpp
+	"Transferencia.h"
+
+1714579958 c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\include\transferencia.h
+	<string>
+
+1713722526 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\gestionarclientes.cpp
+	"GestionarClientes.h"
+
+1713722526 c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\include\gestionarclientes.h
+
+1713722566 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\gestionarproductos.cpp
+	"GestionarProductos.h"
+
+1713722565 c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\include\gestionarproductos.h
+
+1713722490 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\gestionarproveedores.cpp
+	"GestionarProveedores.h"
+
+1713722490 c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\include\gestionarproveedores.h
+
+1713722593 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\gestionarventas.cpp
+	"GestionarVentas.h"
+
+1713722593 c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\include\gestionarventas.h
+
+1713728399 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\gestionarvendedores.cpp
+	"GestionarVendedores.h"
+	"Vendedor.h"
+
+1713728503 c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\include\gestionarvendedores.h
+	<iostream>
+	<vector>
+	"Vendedor.h"
+
+1715982893 source:c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\src\entidad.cpp
+	"Entidad.h"
+
+1715982020 c:\users\lozad\desktop\lab2 - copia - copia - copia - copia\prueba\include\entidad.h
+	<vector>
+
+1715982426 source:c:\users\lozad\desktop\lab3\prueba\src\cliente.cpp
+	<iostream>
+	"Cliente.h"
+	<fstream>
+
+1715982075 c:\users\lozad\desktop\lab3\prueba\include\cliente.h
+	"Persona.h"
+	<string>
+	<vector>
+
+1715461593 c:\users\lozad\desktop\lab3\prueba\include\persona.h
+	"Fecha.h"
+	<string>
+
+1714587128 c:\users\lozad\desktop\lab3\prueba\include\fecha.h
+	<iostream>
+	<string>
+
+1715982893 source:c:\users\lozad\desktop\lab3\prueba\src\entidad.cpp
+	"Entidad.h"
+
+1715982020 c:\users\lozad\desktop\lab3\prueba\include\entidad.h
+	<vector>
+
+1715568406 source:c:\users\lozad\desktop\lab3\prueba\src\factura.cpp
+	<iostream>
+	"Factura.h"
+	<ctime>
+	<iomanip>
+	"Vendedor.h"
+	"Cliente.h"
+	<algorithm>
+	<fstream>
+
+1715560893 c:\users\lozad\desktop\lab3\prueba\include\factura.h
+	<vector>
+	"Producto.h"
+	"Vendedor.h"
+	"Cliente.h"
+
+1715982088 c:\users\lozad\desktop\lab3\prueba\include\producto.h
+	"Fecha.h"
+	<string>
+	<vector>
+
+1715982096 c:\users\lozad\desktop\lab3\prueba\include\vendedor.h
+	"Persona.h"
+	<string>
+	<vector>
+
+1714586758 source:c:\users\lozad\desktop\lab3\prueba\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1713741489 source:c:\users\lozad\desktop\lab3\prueba\src\persona.cpp
+	"Persona.h"
+
+1715982562 source:c:\users\lozad\desktop\lab3\prueba\src\producto.cpp
+	<iostream>
+	"Producto.h"
+	<iomanip>
+	<fstream>
+	<ctime>
+	<chrono>
+
+1715982818 source:c:\users\lozad\desktop\lab3\prueba\src\proveedor.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"Proveedor.h"
+
+1715828136 c:\users\lozad\desktop\lab3\prueba\include\proveedor.h
+	"Persona.h"
+	<string>
+	<vector>
+
+1715982299 source:c:\users\lozad\desktop\lab3\prueba\src\vendedor.cpp
+	<iostream>
+	"Vendedor.h"
+	<fstream>
+
+1715985241 source:c:\users\lozad\desktop\lab3\prueba\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Vendedor.h"
+	"Proveedor.h"
+	"Producto.h"
+	"Factura.h"
+	<algorithm>
+	<ctime>
+	<sstream>
+	<fstream>
+
+1716137635 source:c:\users\lozad\downloads\lab3\lab3\prueba\main.cpp
+	<iostream>
+	"Entidad.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"Producto.h"
+	"Factura.h"
+	<algorithm>
+	<ctime>
+	<sstream>
+	<fstream>
+
+1716137612 c:\users\lozad\downloads\lab3\lab3\prueba\include\cliente.h
+	"Entidad.h"
+	"Persona.h"
+	<string>
+	<vector>
+
+1716087503 c:\users\lozad\downloads\lab3\lab3\prueba\include\persona.h
+	"Fecha.h"
+	<string>
+
+1716087503 c:\users\lozad\downloads\lab3\lab3\prueba\include\fecha.h
+	<iostream>
+	<string>
+
+1716091666 c:\users\lozad\downloads\lab3\lab3\prueba\include\vendedor.h
+	"Entidad.h"
+	"Persona.h"
+	<string>
+	<vector>
+
+1716087503 c:\users\lozad\downloads\lab3\lab3\prueba\include\proveedor.h
+	"Persona.h"
+	<string>
+	<vector>
+
+1716137980 c:\users\lozad\downloads\lab3\lab3\prueba\include\producto.h
+	"Fecha.h"
+	"Entidad.h"
+	<string>
+	<vector>
+
+1716138041 c:\users\lozad\downloads\lab3\lab3\prueba\include\factura.h
+	"Entidad.h"
+	<vector>
+	"Producto.h"
+	"Vendedor.h"
+	"Cliente.h"
+
+1716137621 source:c:\users\lozad\downloads\lab3\lab3\prueba\src\cliente.cpp
+	<iostream>
+	"Entidad.h"
+	"Cliente.h"
+	<fstream>
+
+1716088336 source:c:\users\lozad\downloads\lab3\lab3\prueba\src\entidad.cpp
+	"Entidad.h"
+
+1716091729 c:\users\lozad\downloads\lab3\lab3\prueba\include\entidad.h
+	<vector>
+
+1716137137 source:c:\users\lozad\downloads\lab3\lab3\prueba\src\factura.cpp
+	<iostream>
+	"Factura.h"
+	<ctime>
+	<iomanip>
+	"Vendedor.h"
+	"Cliente.h"
+	<algorithm>
+	<fstream>
+
+1716087504 source:c:\users\lozad\downloads\lab3\lab3\prueba\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1716087504 source:c:\users\lozad\downloads\lab3\lab3\prueba\src\persona.cpp
+	"Persona.h"
+
+1716133325 source:c:\users\lozad\downloads\lab3\lab3\prueba\src\producto.cpp
+	<iostream>
+	"Producto.h"
+	<iomanip>
+	<fstream>
+	<ctime>
+	<chrono>
+
+1716087504 source:c:\users\lozad\downloads\lab3\lab3\prueba\src\proveedor.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"Proveedor.h"
+
+1716091653 source:c:\users\lozad\downloads\lab3\lab3\prueba\src\vendedor.cpp
+	<iostream>
+	"Vendedor.h"
+	<fstream>
+

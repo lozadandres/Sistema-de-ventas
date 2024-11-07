@@ -1,0 +1,30 @@
+|| Informe de productos según estado ||
+ID del producto: 1
+Nombre del producto: leche
+Marca: clim
+Clasificacion: polvo
+Cantidad: 10
+Precio de venta: 17.000
+Fecha de vencimiento: 1 / Noviembre / 1111
+Estado del producto: Vencido
+-------------------------------------------
+|| Informe de productos según estado ||
+ID del producto: 1
+Nombre del producto: leche
+Marca: clim
+Clasificacion: polvo
+Cantidad: 10
+Precio de venta: 17.000
+Fecha de vencimiento: 11 / Noviembre / 1111
+Estado del producto: Vencido
+-------------------------------------------
+|| Informe de productos según estado ||
+ID del producto: 1
+Nombre del producto: leche
+Marca: clim
+Clasificacion: polvo
+Cantidad: 10
+Precio de venta: 17.000
+Fecha de vencimiento: 11 / Noviembre / 1111
+Estado del producto: Vencido
+-------------------------------------------
