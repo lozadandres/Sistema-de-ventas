@@ -1,6 +1,6 @@
 # Sistema-de-ventas
 
-Este sistema de ventas en C++ es una aplicación de escritorio diseñada para gestionar clientes, productos y facturas, garantizando la organización y control de ventas en un negocio ficticio. Se implementa utilizando los conceptos de programación orientada a objetos (POO), como abstracción, polimorfismo, herencia y composición, para asegurar un código modular y mantenible.
+Este sistema de ventas en C++ es una aplicación que se maneja por consola diseñada para gestionar clientes, productos y facturas, garantizando la organización y control de ventas en un negocio ficticio. Se implementa utilizando los conceptos de programación orientada a objetos (POO), como abstracción, polimorfismo, herencia y composición, para asegurar un código modular y mantenible.
 
 Descripción del Sistema de Ventas
 Gestión de Clientes, Productos y Facturas:
